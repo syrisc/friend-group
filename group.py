@@ -19,3 +19,9 @@ my_group = [{"name":"Jill","age":"26","job":"biologist","connections":["Zalikas'
 #2) similar to Q1
 
 #3) no it does not
+
+
+import json
+
+with open('friend_group.json', 'w') as fg:
+    json.dump(my_group,fg)

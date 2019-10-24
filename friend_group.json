@@ -1,0 +1,1 @@
+[{"name": "Jill", "age": "26", "job": "biologist", "connections": ["Zalikas's friend", "John's partner"]}, {"name": "Zalika", "age": "28", "job": "artist", "connections": ["Jill's friend"]}, {"name": "John", "age": "27", "job": "writer", "connections": ["Jill's partner"]}, {"name": "Nash", "age": "34", "job": "chef", "connections": ["John's cousin", "Zalika's landlord"]}]
